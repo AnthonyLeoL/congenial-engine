@@ -1,0 +1,17 @@
+export const BASE_SHAPES = [
+  { id: 1, type: "circle", color: "red" },
+  { id: 2, type: "square", color: "blue" },
+  { id: 3, type: "triangle", color: "green" },
+  { id: 4, type: "circle", color: "blue" },
+  { id: 5, type: "square", color: "green" },
+  { id: 6, type: "triangle", color: "red" },
+  { id: 7, type: "circle", color: "green" },
+  { id: 8, type: "square", color: "red" },
+  { id: 9, type: "triangle", color: "blue" },
+  { id: 10, type: "circle", color: "red" },
+  { id: 11, type: "square", color: "blue" },
+  { id: 12, type: "triangle", color: "green" },
+  { id: 13, type: "circle", color: "blue" },
+  { id: 14, type: "square", color: "green" },
+  { id: 15, type: "triangle", color: "red" },
+];
